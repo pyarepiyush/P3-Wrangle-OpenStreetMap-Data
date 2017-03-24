@@ -20,12 +20,21 @@ Here are names of the files and their Descriptions:
 
 **P3 Wrangle OpenStreeMap data for San Francisco with MongoDB.pdf** --> PDF version of documentation of the assignment
 
+**study components of osm file.py** --> Code to study the components of OSM file, and find issues with the data
+
+**function to update address values.py** --> Define function to update address values
+
+**function to update county values.py** -->  Define function to update county values
+
+**function to update zip values.py** --> Define function to update zip values
+
+**function to clean osm data.py** --> Define function to clean osm data
+
 **Upload JSON to MongoDB.py** --> python script with code to upload JSON format into MongoDB
+
+**clean and upload as JSON document.py** --> Calls function to clean the data and upload cleaned data in JSON format.
 
 **generate osm sample file.py** --> python script to generate sample file (taken from course notes)
 
-**osm data cleanup and upload as JSON.py** --> python script for OSM data cleanup and upload clean data into JSON format
-
 **sf_sample.osm** --> sample file generated to test run the scripts
 
-**study components of osm file.py** --> Code to study the components of OSM file, and find issues with the data
