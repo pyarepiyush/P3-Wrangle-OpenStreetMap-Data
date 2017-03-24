@@ -1,0 +1,23 @@
+{"id": "281266", "type": "node", "pos": [37.5601845, -122.3025783], "created": {"changeset": "22950379", "user": "juergenb22", "version": "6", "uid": "1660455", "timestamp": "2014-06-15T18:55:15Z"}}
+{"id": "30029483", "type": "node", "pos": [37.7019213, -122.0341958], "created": {"changeset": "3949010", "user": "KindredCoda", "version": "13", "uid": "14293", "timestamp": "2010-02-23T00:44:44Z"}}
+{"id": "30362900", "type": "node", "pos": [37.8301807, -122.2940306], "created": {"changeset": "4150170", "user": "KindredCoda", "version": "6", "uid": "14293", "timestamp": "2010-03-17T08:52:30Z"}}
+{"id": "30374151", "type": "node", "pos": [37.8003122, -122.2798442], "created": {"changeset": "7389774", "user": "KindredCoda", "version": "24", "uid": "14293", "timestamp": "2011-02-25T12:09:13Z"}}
+{"id": "31053112", "type": "node", "pos": [37.457109, -122.2887997], "created": {"changeset": "8196968", "user": "KindredCoda", "version": "43", "uid": "14293", "timestamp": "2011-05-20T09:38:31Z"}}
+{"id": "31791108", "type": "node", "pos": [37.8263329, -122.3030503], "created": {"changeset": "17255678", "user": "oba510", "version": "5", "uid": "933797", "timestamp": "2013-08-07T15:56:00Z"}}
+{"id": "31796101", "type": "node", "pos": [37.7782963, -122.2983614], "created": {"changeset": "12290631", "user": "OSMF Redaction Account", "version": "4", "uid": "722137", "timestamp": "2012-07-18T17:31:35Z"}}
+{"id": "31799990", "type": "node", "pos": [37.6479066, -122.1549312], "created": {"changeset": "12290025", "user": "OSMF Redaction Account", "version": "4", "uid": "722137", "timestamp": "2012-07-18T17:08:16Z"}}
+{"id": "31806514", "type": "node", "pos": [37.5247714, -122.1003025], "created": {"changeset": "14617259", "user": "bigwebguy", "version": "6", "uid": "635896", "timestamp": "2013-01-12T00:23:21Z"}}
+{"id": "31813039", "type": "node", "pos": [37.8828888, -122.5186042], "created": {"changeset": "12297016", "user": "OSMF Redaction Account", "version": "5", "uid": "722137", "timestamp": "2012-07-18T20:24:31Z"}}
+{"id": "31817557", "type": "node", "pos": [37.786139, -122.2704272], "created": {"changeset": "34236489", "user": "SFBay1234", "version": "7", "uid": "3260615", "timestamp": "2015-09-24T23:52:42Z"}}
+{"id": "31820631", "type": "node", "pos": [37.8140529, -122.3632827], "created": {"changeset": "12290799", "user": "OSMF Redaction Account", "version": "4", "uid": "722137", "timestamp": "2012-07-18T17:36:31Z"}}
+{"id": "31822316", "type": "node", "pos": [37.5412193, -122.2582796], "created": {"changeset": "12292084", "user": "OSMF Redaction Account", "version": "3", "uid": "722137", "timestamp": "2012-07-18T18:20:39Z"}}
+{"id": "31824796", "type": "node", "pos": [37.7912675, -122.27189], "created": {"changeset": "34236756", "user": "SFBay1234", "version": "6", "uid": "3260615", "timestamp": "2015-09-25T00:31:17Z"}}
+{"id": "31826637", "type": "node", "pos": [37.514075, -122.2464198], "created": {"changeset": "12290233", "user": "OSMF Redaction Account", "version": "6", "uid": "722137", "timestamp": "2012-07-18T17:15:12Z"}}
+{"id": "31828120", "type": "node", "pos": [37.7732761, -122.3867755], "created": {"changeset": "12291161", "user": "OSMF Redaction Account", "version": "7", "uid": "722137", "timestamp": "2012-07-18T17:50:44Z"}}
+{"id": "31829178", "type": "node", "pos": [37.6422315, -122.3945004], "created": {"changeset": "12292969", "user": "OSMF Redaction Account", "version": "4", "uid": "722137", "timestamp": "2012-07-18T18:37:59Z"}}
+{"id": "31830207", "type": "node", "pos": [37.9071551, -122.3798718], "created": {"changeset": "12290912", "user": "OSMF Redaction Account", "version": "5", "uid": "722137", "timestamp": "2012-07-18T17:39:29Z"}}
+{"id": "31831148", "type": "node", "pos": [37.8135444, -122.3714366], "created": {"changeset": "12290799", "user": "OSMF Redaction Account", "version": "4", "uid": "722137", "timestamp": "2012-07-18T17:36:31Z"}}
+{"id": "31832199", "type": "node", "pos": [37.5463519, -122.0932102], "created": {"changeset": "14617259", "user": "bigwebguy", "version": "5", "uid": "635896", "timestamp": "2013-01-12T00:23:23Z"}}
+{"id": "31833316", "type": "node", "pos": [37.7481543, -122.2351055], "created": {"changeset": "12290072", "user": "OSMF Redaction Account", "version": "4", "uid": "722137", "timestamp": "2012-07-18T17:10:11Z"}}
+{"id": "31834366", "type": "node", "pos": [37.5735882, -122.2923487], "created": {"changeset": "12292084", "user": "OSMF Redaction Account", "version": "5", "uid": "722137", "timestamp": "2012-07-18T18:20:53Z"}}
+{"id": "31835389", "type": "node", "pos": [37.6627241, -122.380056], "created": {"changeset": "12292969", "user": "OSMF Redaction Account", "version": "6", "uid": "722137", "timestamp": "2012-07-18T18:38:04Z"}}
