@@ -30,9 +30,9 @@ Here are names of the files and their Descriptions:
 
 **function to clean osm data.py** --> Define function to clean osm data
 
-**Upload JSON to MongoDB.py** --> python script with code to upload JSON format into MongoDB
-
 **clean and upload as JSON document.py** --> Calls function to clean the data and upload cleaned data in JSON format.
+
+**Upload JSON to MongoDB.py** --> python script with code to upload JSON format into MongoDB
 
 **generate osm sample file.py** --> python script to generate sample file (taken from course notes)
 
